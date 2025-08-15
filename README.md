@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=ngo275&project=app-agent&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # AppAgent
 
 <div align="center">
